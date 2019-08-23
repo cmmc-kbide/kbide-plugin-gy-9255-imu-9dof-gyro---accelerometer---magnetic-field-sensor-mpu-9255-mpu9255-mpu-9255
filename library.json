@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255",
+  "title": "gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255",
+  "keywords": "gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255, esp32, esp8266, arduino",
+  "description": "gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-9255-imu-9dof-gyro---accelerometer---magnetic-field-sensor-mpu-9255-mpu9255-mpu-9255/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
